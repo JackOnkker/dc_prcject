@@ -1,1 +1,9 @@
-123
+//** pascredit
+pascredit_test_path_starthttps://test-phl-api.fyinformation.ccpascredit_test_path_end
+pascredit_test_salt_startZ7EiDf3WE92JywDspascredit_test_salt_end
+
+xiongbingtest_test_path_starthttps://test-phl-api.fyinformation.ccxiongbingtest_test_path_end
+xiongbingtest_test_salt_startZ7EiDf3WE92JywDsxiongbingtest_test_salt_end
+
+pascredit_product_path_starthttps://baidu.compascredit_product_path_end
+pascredit_product_salt_startZ7EiDf3WE92JywDspascredit_product_salt_end
